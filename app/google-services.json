@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130661678366",
+    "project_id": "authentication-firebase-13272",
+    "storage_bucket": "authentication-firebase-13272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130661678366:android:017db5ecd70680c5b29d0f",
+        "android_client_info": {
+          "package_name": "com.rezoo.authentication_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130661678366-mjfss9hj46ccce09tnca91vhootj5nrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXlwL8OcU6h-MPycHe8kL5mevwbH0oENc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130661678366-mjfss9hj46ccce09tnca91vhootj5nrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
